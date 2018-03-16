@@ -15,7 +15,7 @@ int main(void)
 	SetConsoleOutputCP(1251);
 	int n;
 	char c;
-	printf("Ââåäèòå N è ñèìâîë: ");
+	printf("Ââåäèòå N: ");
 	scanf("%d",&n );	
 	fflush(stdin);
 	printf("Ââåäèòå ñèìâîë: ");
